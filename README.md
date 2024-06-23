@@ -13,4 +13,4 @@ bills = [5,5,10,10,20]
 bills = [10,5,20,10,20]
 
 # Problemas em Aula
-Em aula meu código não funcionava devido ao mal uso das declarações de "if". Bastou eu usar declarações "if else", remover uma variável desnecessária e consertar alguns detalhes no código para ele funcionar perfeitamente.
+Em aula meu código não funcionava devido ao mal uso das declarações de "if". Bastou eu usar declarações "if else" para resolver, também removi a variável troco pois era desnecessária, e consertei alguns detalhes no código para ele funcionar perfeitamente.
