@@ -8,9 +8,9 @@ Observe que a princípio você não tem nenhum troco em mãos.
 Dada uma matriz inteira bills onde bills[i] é a fatura que o i-ésimo cliente paga, retorne verdadeiro se você puder fornecer a cada cliente o troco correto, ou falso caso contrário.
 
 # Casos Testados:
-bills = [5,5,5,10,20].
-bills = [5,5,10,10,20].
-bills = [10,5,20,10,20].
+bills = [5,5,5,10,20].  
+bills = [5,5,10,10,20].  
+bills = [10,5,20,10,20].  
 
 # Problemas em Aula
 Em aula meu código não funcionava devido ao mal uso das declarações de "if". Bastou eu usar declarações "if else" para resolver, também removi a variável troco pois era desnecessária, e consertei alguns detalhes no código para ele funcionar perfeitamente.
