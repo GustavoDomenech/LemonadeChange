@@ -1,7 +1,7 @@
 # Gustavo Donenech de Souza - Turma M5 
 
 # LemonadeChange
-Em uma barraca de limonada, cada limonada custa US$ 5. Os clientes ficam em fila para comprar de você e pedem um de cada vez (na ordem especificada nas notas). Cada cliente comprará apenas uma limonada e pagará com uma nota de US$ 5, US$ 10 ou US$ 20. Você deve fornecer o troco correto a cada cliente para que a transação líquida seja que o cliente pague US$ 5.
+Em uma barraca de limonada, cada limonada custa US$ 5. Os clientes ficam em fila para comprar de você e pedem um de cada vez. Cada cliente comprará apenas uma limonada e pagará com uma nota de US$ 5, US$ 10 ou US$ 20. Você deve fornecer o troco correto a cada cliente para que a transação líquida seja que o cliente pague US$ 5.
 
 Observe que a princípio você não tem nenhum troco em mãos.
 
