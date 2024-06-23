@@ -1,7 +1,7 @@
 bool lemonadeChange(int* bills, int billsSize) {
     int i, cinco = 0, dez = 0, vinte = 0;
-        for ( i = 0 ;i < billsSize; i++ ){
-            if(    bills[i]    ==    5    ){
+        for ( i = 0 ; i < billsSize ; i++ ){
+            if( bills[i] == 5 ){
                 cinco++;
             }
             if( bills[i] == 10 ){
